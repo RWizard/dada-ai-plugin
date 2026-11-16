@@ -1,0 +1,15 @@
+{
+  "name": "dada",
+  "description": "Dada is a service for video calls.",
+  "owner": {
+    "name": "Dada",
+    "url": "https://da-da.pro"
+  },
+  "plugins": [
+    {
+      "name": "dada",
+      "source": "./dada",
+      "description": "Dada is a service for video calls."
+    }
+  ]
+}

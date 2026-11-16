@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dada": {
+      "type": "http",
+      "url": "https://mcp.da-da.pro"
+    }
+  }
+}
